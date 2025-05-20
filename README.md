@@ -8,22 +8,35 @@ Este repositório reúne artigos desenvolvidos durante a graduação no curso Ba
 Os textos abordam temas de diversas áreas do conhecimento, como Química, Tecnologia da Informação (TI), Biologia, Estatística, entre outras, refletindo a natureza interdisciplinar do curso. A proposta é compartilhar conteúdo técnico-científico produzido ao longo da formação acadêmica, contribuindo com estudantes, pesquisadores e entusiastas.
 
 🔬 Áreas contempladas
+
 ⚗️ Química
+
 💻 Tecnologia da Informação
+
 📊 Estatística
+
 📚 Educação Científica
+
 ⚙️ Engenharia e Física Aplicada
+
 ...e outras que forem adicionadas com o tempo.
 
 ✍️ Sobre os Artigos
+
 Produzidos entre as disciplinas e projetos do BICT/UFMA.
+
 Alguns textos estão em versão final, outros em formato de rascunho ou revisão.
+
 Sempre que possível, incluirei referências bibliográficas e anexos complementares.
 
 🚀 Como contribuir
+
 Se quiser sugerir melhorias, correções ou submeter seus próprios artigos:
+
 Faça um fork do repositório.
+
 Adicione seu artigo na pasta correspondente.
+
 Crie um pull request com uma breve descrição da contribuição.
 
 📜 Licença
