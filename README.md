@@ -1,5 +1,6 @@
 # 📚 Repositório de Artigos Acadêmicos – UFMA | BICT em Ciência e Tecnologia
-![5808bbc4-bcc7-4cec-8eee-1271a4602a8a](https://github.com/user-attachments/assets/5b6b9323-eef1-4291-beb9-8854f03efef0)
+![Uploading 5808bbc4-bcc7-4cec-8eee-1271a4602a8a (1).png…]()
+
 
 
 Este repositório reúne artigos desenvolvidos durante a graduação no curso Bacharelado Interdisciplinar em Ciência e Tecnologia (BICT), com ênfase em Engenharia, na Universidade Federal do Maranhão (UFMA).
